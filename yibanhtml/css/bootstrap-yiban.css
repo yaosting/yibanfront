@@ -1,0 +1,136 @@
+body{
+    font-family: "Microsoft YaHei",sans-serif;
+
+}
+.mai-icon{
+    background: rgb(64,210,177);
+    color: #ffffff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-right: 20px;
+}
+.navbar-default{
+    background-color: #f2f3ff;
+    border: none;
+}
+.navbar-default .navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    color: #2d8cff;
+    height: 65px;
+    line-height: 25px;<!--距离顶部-->
+
+}
+.navbar-default .navbar-nav > li > a{
+    font-size: 15px;
+    font-weight: bold;
+    color: #000000;
+    height: 50px;
+    line-height: 25px;
+    background-color: #ffffff;
+
+}
+.navbar-toggle{
+    margin-top:18px;
+}
+.navbar-default .navbar-toggle:hover{
+    border-color:#22e7ff ;
+    background-color: #22e7ff;
+}
+.navbar-default .navbar-toggle.icon-bar{
+    background-color:#000000 ;
+    font-weight: bold;
+}
+#home{
+    margin-top: 65px;
+    background: url(../images/2.jpg);
+    background-size: cover;
+    color: #f1f4ff;
+    text-align: center;
+    width: 100%;
+}
+.lvjing{
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    padding:90px;
+}
+#home h1{
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+#home p{
+    font-weight: 400;
+    line-height: 35px;
+}
+#home img{
+    margin-top:30px;
+    display: inline-block;
+}
+#bbs{
+    padding:5px 0;
+    text-align: center;
+}
+#bbs .col-lg-3 col-md-3 col-xs-3 col-sm-3 center{
+    padding: 10px;
+}
+#bbs .col-lg-3 col-md-3 col-xs-3 col-sm-3 center:hover{
+    background: #f1f1f1;
+    box-shadow: 1px 1px 4px #ccc;
+}
+#bbs a{
+    color: #59ff50;
+    text-decoration: none;
+}
+#bbs a:hover{
+    color: #000000;
+}
+#bbs img{
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+
+}
+#html{
+    padding:50px 0;
+    background: #f8f8f8;
+    text-align: center;
+
+}
+#html h2{
+    font-weight: bold;
+    margin-top: 100px;
+}
+#html img{
+    display: inline-block;
+}
+#html p{
+    line-height: 50px;
+}
+#zhanshi{
+    background: #9b9b9b;
+    padding: 80px 0;
+    text-align: center;
+
+}
+#zhanshi h2 {
+    font-weight: bold;
+    padding-bottom: 40px;
+    margin-top: 0;
+}
+#zhanshi .col-md-3{
+    padding-bottom: 20px;
+}
+#zhanshi .col-md-3 img{
+    margin: 0 auto;
+}
+
+#footer{
+    margin:10px;
+    text-align: center;
+    font-weight: 400;
+}
