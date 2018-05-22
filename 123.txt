@@ -1,1 +1,6 @@
-123
+git add
+git commit -m "ds"
+git remote add origin https://github.com/yaosting/yibanfront(第一次连接时使用）
+git push -u origin master
+
+git clone https://github.com/yaosting/yibanfront
